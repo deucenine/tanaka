@@ -118,6 +118,15 @@ KQs ‚Å 7cTh5s ‚Ìƒ{[ƒh‚Í‚©‚È‚è‘ŠŽè‚ÌƒŒƒ“ƒW‚Éƒqƒbƒg‚µ‚Ä‚¢‚é‚à‚Ì‚ÌAƒ^[ƒ“‚ÅJ‚ðE‚
 Echeck-raise‚É‚Íƒ‰ƒCƒg‚ÉƒR[ƒ‹‚µ‚È‚¢
 ¨ƒtƒƒbƒvƒ^[ƒ“ƒŠƒo[s‚­‚É‚Â‚ê‚Äƒuƒ‰ƒt—¦‚ª‚©‚È‚è’á‚­‚È‚éB
 
+šBTN‚Å3bet‚É‘Î›³‚·‚éŽž
+Eƒ`ƒƒ[ƒg“¹—‚É“®‚­‚±‚Æ
+
+šSB‚Æ‚µ‚ÄBTNopen‚Écall‚·‚éŽž
+EBB‚ÌŒXŒü‚É’ˆÓ
+¨BB‚ª15bbˆÈ‰º‚È‚çƒR[ƒ‹‚µ‚È‚¢
+EcallŒãƒhƒ“ƒN‚Í‚µ‚È‚¢
+
+
 
 
 
