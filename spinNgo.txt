@@ -104,6 +104,21 @@ KQs ‚Å 7cTh5s ‚Ìƒ{[ƒh‚Í‚©‚È‚è‘ŠŽè‚ÌƒŒƒ“ƒW‚Éƒqƒbƒg‚µ‚Ä‚¢‚é‚à‚Ì‚ÌAƒ^[ƒ“‚ÅJ‚ðE‚
 Eƒhƒ“ƒNƒŠƒo[ƒI[ƒ‹ƒCƒ“‚É’ˆÓ
 ¨ƒŠƒo[‚Å‚ÌƒŒƒCƒY‚àŠÜ‚ß‚©‚È‚èƒ^ƒCƒg‚É‚È‚é‚×‚«B‹­‚­‚Ä‚à‚ ‚«‚ç‚ß‚ÄI
 
+šmultiplier‚²‚Æ‚Ìˆá‚¢
+E‚‚¢multiplier‚Å‚Íƒuƒ‰ƒt‚Í‚EVB‚Æ‚Í‚¢‚¢‚Â‚Âƒuƒ‰ƒtƒLƒƒƒbƒ`‚ÍNGB
+¨”÷–­‚Èƒ‰ƒCƒ“‚Å‚»‚Á‚¿‚æ‚è‚Ì‘I‘ð‚Æ‚È‚è‚ª‚¿‚Æ‚¢‚¤ˆÓ–¡
+E‚Ý‚ñ‚ÈƒvƒŠƒtƒƒbƒv‚Ånit‚Åpassive‚ÉB
+¨UŒ‚“I‚É
+
+šBTNí—ª
+Eâ‘Îƒ~ƒjƒŒƒCƒYAƒI[ƒ‹ƒCƒ“AƒtƒH[ƒ‹ƒhi3handed ‚ÅƒŠƒ“ƒv‚Í‚È‚µj
+E10BBˆÈ‰º‚È‚çƒ~ƒjƒŒƒCƒY‚à‚È‚µAƒI[ƒ‹ƒCƒ“orƒtƒH[ƒ‹ƒh
+Ecbet‚Í30`50 pot size‚ÅƒI[ƒo[ƒvƒƒeƒNƒg‚Í‚µ‚È‚¢i•p“x‚Í‚‚ßj
+¨ƒvƒƒeƒNƒVƒ‡ƒ“‚ª•K—v‚È‚ç60“
+Echeck-raise‚É‚Íƒ‰ƒCƒg‚ÉƒR[ƒ‹‚µ‚È‚¢
+¨ƒtƒƒbƒvƒ^[ƒ“ƒŠƒo[s‚­‚É‚Â‚ê‚Äƒuƒ‰ƒt—¦‚ª‚©‚È‚è’á‚­‚È‚éB
+
+
 
 
 
