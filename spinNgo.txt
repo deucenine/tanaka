@@ -127,7 +127,12 @@ KQs ‚Å 7cTh5s ‚Ìƒ{[ƒh‚Í‚©‚È‚è‘ŠŽè‚ÌƒŒƒ“ƒW‚Éƒqƒbƒg‚µ‚Ä‚¢‚é‚à‚Ì‚ÌAƒ^[ƒ“‚ÅJ‚ðE‚
 EcallŒãƒhƒ“ƒN‚Í‚µ‚È‚¢
 E3x‚ÅBTN‚©‚çƒŒƒCƒY‚ª—ˆ‚½Žž‚É‚ÍƒR[ƒ‹‚Í‚µ‚È‚¢AƒtƒH[ƒ‹ƒh‚©shove
 E‘ŠŽè‚ª‚¤‚Ü‚¢‘ŠŽè‚¾‚ÆŽv‚¦‚Î–³—‚Éƒuƒ‰ƒt‚Ö‚Í‚¢‚©‚È‚¢Bƒ`ƒFƒbƒNŠñ‚èB
-E
+
+šSB‚Å‚ÌƒvƒŒƒC
+EƒŠƒ“ƒv¨cbet‚Í‚©‚È‚è‚ÌŠ„‡‚Å‚â‚é
+EminRaised pot‚Å‚à60-75% cbet‚¾‚ªAƒGƒNƒCƒeƒB‚Ì‚È‚¢‘ŠŽè‚Éƒqƒbƒg‚µ‚Ä‚»‚¤‚Èƒ{[ƒh‚Í‚ ‚«‚ç‚ßBƒ^[ƒ“‚Å‚Í40-55%AƒŠƒo[‚Å‚Í60+%‚­‚ç‚¢B
+ESB‚Å‚Ícheck-callƒ‰ƒCƒ“‚Í‚È‚¢Acheck-fold‚Å‚æ‚¢B
+EƒvƒƒeƒNƒg‚¢‚ç‚È‚¢ƒgƒbƒvƒyƒA&ƒhƒ‰ƒCƒ{[ƒh‚Å‚ÍcheckB
 
 
 
