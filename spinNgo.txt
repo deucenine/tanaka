@@ -1,7 +1,7 @@
 preflop
 
 2x‚ðƒƒCƒ“‚ÉŽg‚¤
-sb‚È‚ç2.5x‚ðŽg‚¤B(14BBˆÈã‚ÉŒÀ‚éA‚»‚êˆÈ‰º‚È‚ç2x)
+sb‚È‚ç2.5x‚ðŽg‚¤B(14~17BBˆÈã‚ÉŒÀ‚éA‚»‚êˆÈ‰º‚È‚ç2x)
 
 BTN‚È‚ç2x‚©shove
 ƒŠƒ“ƒv‚Í”ð‚¯‚é
@@ -129,11 +129,15 @@ KQs ‚Å 7cTh5s ‚Ìƒ{[ƒh‚Í‚©‚È‚è‘ŠŽè‚ÌƒŒƒ“ƒW‚Éƒqƒbƒg‚µ‚Ä‚¢‚é‚à‚Ì‚ÌAƒ^[ƒ“‚ÅJ‚ðE‚
 E‘ŠŽè‚ª‚¤‚Ü‚¢‘ŠŽè‚¾‚ÆŽv‚¦‚Î–³—‚Éƒuƒ‰ƒt‚Ö‚Í‚¢‚©‚È‚¢Bƒ`ƒFƒbƒNŠñ‚èB
 
 šSB‚Å‚ÌƒvƒŒƒC
-EƒŠƒ“ƒv¨cbet‚Í‚©‚È‚è‚ÌŠ„‡‚Å‚â‚é
+EƒŠƒ“ƒv¨cbet‚Í‚©‚È‚è‚ÌŠ„‡‚Å‚â‚é(50% pot bet)
 EminRaised pot‚Å‚à60-75% cbet‚¾‚ªAƒGƒNƒCƒeƒB‚Ì‚È‚¢‘ŠŽè‚Éƒqƒbƒg‚µ‚Ä‚»‚¤‚Èƒ{[ƒh‚Í‚ ‚«‚ç‚ßBƒ^[ƒ“‚Å‚Í40-55%AƒŠƒo[‚Å‚Í60+%‚­‚ç‚¢B
 ESB‚Å‚Ícheck-callƒ‰ƒCƒ“‚Í‚È‚¢Acheck-fold‚Å‚æ‚¢B
 EƒvƒƒeƒNƒg‚¢‚ç‚È‚¢ƒgƒbƒvƒyƒA&ƒhƒ‰ƒCƒ{[ƒh‚Å‚ÍcheckB
 
+šBB‚Å‚Ìdefende 3bet“™
+Ecbet‚É‘Î‚µ‚ÄƒyƒA‚Å‚Í~‚è‚È‚¢Ii‚½‚¾‚µ11bbˆÈ‰º‚È‚ç~‚è‚éIƒXƒgƒhƒ‚Å‚àƒxƒbƒgƒTƒCƒY”@‰½‚Å‚Í~‚è‚éBƒKƒbƒgƒVƒ‡ƒbƒg‚Å‚à•’Ê‚ÍcallB‚â‚Í‚èƒXƒ^ƒbƒNƒTƒCƒY:bet”ä—¦‚ªd—vj
+E‚Æ‚É‚©‚­fastplayBƒ{[ƒh‚ªƒhƒ‰ƒC‚·‚¬‚éê‡‚ÉŒÀ‚è‚Æ‚Í‚ ‚é‚ªfastplay„§B
+E‘ŠŽè‚ª’´ƒAƒOƒŒ‚È‚çjx+Œn‚Ìƒtƒ‰ƒhƒ‚ÅƒŒƒCƒY‚µ‚Ä‚â‚éB
 
 
 
